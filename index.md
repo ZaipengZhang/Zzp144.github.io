@@ -4,7 +4,7 @@ layout: page
 
 # About Me
 
-<img src="https://Zzp144.github.io/zaipeng.jpg" class="floatpic">
+<img src="https://Zzp144.github.io/picture.jpg" class="floatpic">
 
 
 
