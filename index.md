@@ -4,7 +4,9 @@ layout: page
 
 # About Me
 
-![zaipeng.jpg](C:\Users\ASUS\Documents\GitHub\Zzp144.github.io\zaipeng.jpg.jpg)
+<img src="https://Zzp144.github.io/zaipeng.jpg" class="floatpic">
+
+
 
 Here is **Zaipeng Zhang (张在芃)**.<br>
 
