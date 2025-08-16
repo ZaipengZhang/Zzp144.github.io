@@ -4,7 +4,7 @@ layout: page
 
 # About Me
 
-![d2403904cff0d9d03a1e5331df2150e5](C:\Users\ASUS\Documents\GitHub\Zzp144.github.io\images\d2403904cff0d9d03a1e5331df2150e5.jpg)
+![zaipeng.jpg](C:\Users\ASUS\Documents\GitHub\Zzp144.github.io\zaipeng.jpg.jpg)
 
 Here is **Zaipeng Zhang (张在芃)**.<br>
 
