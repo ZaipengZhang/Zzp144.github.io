@@ -10,7 +10,7 @@ layout: page
 
 Here is **Zaipeng Zhang (张在芃)**.<br>
 
-I am a postgraduate student at the Qingdao University, supervised by [Prof. Xinghua Wang]([王兴华-青岛大学教育科学学院](https://sf.qdu.edu.cn/info/1152/2389.htm)).I am majoring in Modern Educational Technology.Currently, my research team primarily focuses on Learning Science and Technology, while my personal research interests center on teacher professional development.
+I am a postgraduate student at the Qingdao University, supervised by [Prof. Xinghua Wang](https://zzp144.github.io/file/王兴华-青岛大学教育科学学院.html).I am majoring in Modern Educational Technology.Currently, my research team primarily focuses on Learning Science and Technology, while my personal research interests center on teacher professional development.
 
 If you are interested in any aspect of me, I am always open to discussions and academic collaborations. Feel free to reach out to me at — **zhangzaipeng@qdu.edu.cn**
 
@@ -28,5 +28,5 @@ If you are interested in any aspect of me, I am always open to discussions and a
 
 ## News and Updates
 
-- **May 2025**：Present and report a paper at the GCCCE2025 conference, with the title of the paper being ["人工智能驱动教师专业发展的进展与趋势：基于2003-2024年文献的科学计量分析"]([ywen.pdf](https://gccce2025.jiangnan.edu.cn/dfiles/18334/doc/pdf/ywen.pdf))
+- **May 2025**：Present and report a paper at the GCCCE2025 conference, with the title of the paper being ["人工智能驱动教师专业发展的进展与趋势：基于2003-2024年文献的科学计量分析"](https://zzp144.github.io/file/ywen.pdf))
 
